@@ -1,4 +1,4 @@
-# trivial-quiz-game
+# SIMPLE TRIVIAL QUIZ GAME
 
  This project is a simple web-based game developed using HTML, CSS, and
 JavaScript. The game shall test the user on their knowledge and skills through
